@@ -26,8 +26,7 @@ Expected Output:
 
 CODER: Urja Shah
 CREDIT/CONTRIBUTION:
-- cobweb P3 instructions
-- isdirectory from Lab07
+- N/A
 
 How to compile:
 gcc -g -Wall sfind.c sfindFunc.c -o sfind
